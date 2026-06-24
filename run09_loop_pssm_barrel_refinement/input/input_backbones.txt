@@ -1,0 +1,2 @@
+/databank/gfp/run09_loop_pssm_barrel_refinement/input/trimmed_backbones/run09_L01_run05_candidate_0346_run05_three_loop_inputs_trim230.pdb
+/databank/gfp/run09_loop_pssm_barrel_refinement/input/trimmed_backbones/run09_L02_run05_candidate_0205_run05_three_loop_inputs_trim230.pdb
